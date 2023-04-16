@@ -1,0 +1,18 @@
+body{
+    background-color: #CCCCFF;
+}
+img {
+    width: 50%;
+    height: auto;
+  }
+h1{
+    font-size: 100px;
+}
+h1, h2, a{
+    font-family: 'DynaPuff', cursive;
+    color: #ccccff;
+}
+#grad {
+    background: rgb(210,29,29);
+    background: linear-gradient(90deg, rgba(210,29,29,1) -50%, rgba(3,9,10,1) 100%);
+}
